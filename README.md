@@ -61,4 +61,5 @@ students Table
  │
  ▼
 view.php (Displays Saved Records)
-```
+ HOW TO ADD THE STUDENTS
+go to http://localhost/student_system/view.php
